@@ -7,4 +7,4 @@ this projectr use pytesseract as OCR part.
 
 "get_word_from_pic" extracts words from image.
 
-"word_quiz" writes the words in to the blank template
+"word_quiz" writes the words in to the blank template. The template is contained in the files
